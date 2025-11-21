@@ -8,9 +8,10 @@ This repository contains the final project for the ITE Elective: Machine Learnin
 
 ## Contents
 - `Question_Answering_BERT_FinalProject.ipynb` — Jupyter notebook with data preparation, fine-tuning, evaluation, and demo examples.
-- `models/` 
-- `data/`
+- `files of experimentation logs and notebook from previous activity` 
+- `dataset/`
 - `experimentation/`
+- `ipynb/`
 - `README.md`
 
 ## Requirements
